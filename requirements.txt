@@ -1,0 +1,8 @@
+duckdb>=1.3
+pandas
+numpy
+plotly
+streamlit>=1.40
+requests
+beautifulsoup4
+yfinance

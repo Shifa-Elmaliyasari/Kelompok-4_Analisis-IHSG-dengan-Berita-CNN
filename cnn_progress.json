@@ -1,0 +1,82 @@
+{
+  "keuangan": {
+    "next_page": 1001,
+    "done": true
+  },
+  "bisnis": {
+    "next_page": 1001,
+    "done": true
+  },
+  "ekonomi": {
+    "next_page": 1001,
+    "done": true
+  },
+  "nasional": {
+    "next_page": 1001,
+    "done": true
+  },
+  "internasional": {
+    "next_page": 1001,
+    "done": true
+  },
+  "asean": {
+    "next_page": 1001,
+    "done": true
+  },
+  "asia-pasifik": {
+    "next_page": 1001,
+    "done": true
+  },
+  "timur-tengah": {
+    "next_page": 1001,
+    "done": true
+  },
+  "olahraga": {
+    "next_page": 1001,
+    "done": true
+  },
+  "teknologi": {
+    "next_page": 1001,
+    "done": true
+  },
+  "hiburan": {
+    "next_page": 1001,
+    "done": true
+  },
+  "gaya-hidup": {
+    "next_page": 1001,
+    "done": true
+  },
+  "otomotif": {
+    "next_page": 1001,
+    "done": true
+  },
+  "politik": {
+    "next_page": 1001,
+    "done": true
+  },
+  "hukum-kriminal": {
+    "next_page": 1001,
+    "done": true
+  },
+  "peristiwa": {
+    "next_page": 1001,
+    "done": true
+  },
+  "pemilu": {
+    "next_page": 1001,
+    "done": true
+  },
+  "energi": {
+    "next_page": 1001,
+    "done": true
+  },
+  "makro": {
+    "next_page": 1001,
+    "done": true
+  },
+  "sepakbola": {
+    "next_page": 1001,
+    "done": true
+  }
+}
