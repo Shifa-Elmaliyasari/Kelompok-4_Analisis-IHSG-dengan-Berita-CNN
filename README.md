@@ -198,7 +198,7 @@ streamlit run app.py
 
 - Data berita hanya berupa **judul**, bukan isi artikel.
 - CNN Indonesia membatasi halaman indeks hingga 1000 halaman per kanal, sehingga jumlah berita CNN lebih sedikit di periode awal. Perbandingan CNN vs CNBC paling adil pada periode yang lebih baru.
-- Klasifikasi tema berbasis kata kunci, jadi tidak sempurna dan sebagian berita masuk tema "Lainnya".
+- Klasifikasi tema berbasis kata kunci, jadi tidak sempurna dan sebagian berita masuk tema Lainnya.
 - Korelasi antara jumlah berita dan return IHSG sangat lemah. Hubungan ini tidak boleh dibaca sebagai sebab-akibat.
 - IHSG hanya ada pada hari bursa, sedangkan berita terbit setiap hari.
 - Hasil scraping bergantung pada struktur situs saat pengambilan data, yang bisa berubah sewaktu-waktu.
